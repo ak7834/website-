@@ -1,0 +1,6 @@
+{
+  "name": "ToonStage — 3D Cartoon & Kids Drama Studio",
+  "description": "Free, unlimited photo and full-length video converter into 3D cartoon kids-drama animations with dynamic multi-character scenes and animated character voice conversion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
